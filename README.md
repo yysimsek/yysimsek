@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi there! 👋 I'm Yekta  
 
-<!--
-**yysimsek/yysimsek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Engineering student at Pamukkale University  
+💻 Currently learning **PHP** and Web Development  
+🚀 Building projects, learning and growing every day  
+📚 Passionate about backend development and problem-solving  
+📍 Based in Denizli, Turkey  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Technologies & Tools  
+- PHP  
+- MySQL  
+- HTML / CSS / JavaScript  
+- Git & GitHub  
+
+---
+
+### 📊 GitHub Stats  
+![Yekta's GitHub stats](https://github-readme-stats.vercel.app/api?username=yysimsek&show_icons=true&theme=radical)  
+
+---
+
+### 📫 Let's Connect!  
+[![LinkedIn Badge](https://img.shields.io/badge/-Yekta%20Yildirim%20Simsek-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yekta-yildirim-simsek/)](https://www.linkedin.com/in/yekta-yildirim-simsek/)
