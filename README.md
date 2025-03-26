@@ -16,10 +16,5 @@
 
 ---
 
-### 📊 GitHub Stats  
-![Yekta's GitHub stats](https://github-readme-stats.vercel.app/api?username=yysimsek&show_icons=true&theme=radical)  
-
----
-
 ### 📫 Let's Connect!  
 [![LinkedIn Badge](https://img.shields.io/badge/-Yekta%20Yildirim%20Simsek-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yekta-yildirim-simsek/)](https://www.linkedin.com/in/yekta-yildirim-simsek/)
